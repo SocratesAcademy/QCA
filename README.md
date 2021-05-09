@@ -1,6 +1,10 @@
 # QCA
 Learning the QCA-package QCA: A Package for Qualitative Comparative Analysis
 
+Using the R language, install QCA package first. 
+
+    install.packages('QCA')
+
 https://www.douban.com/group/topic/225326545/
 
 https://bookdown.org/dusadrian/QCAbook/
