@@ -13,5 +13,7 @@ https://cran.r-project.org/web/packages/QCA/
 
 QCA Tutorial Thomann et al https://rpubs.com/preimann/553549
 
+https://nbviewer.jupyter.org/github/SocratesAcademy/QCA/blob/main/qca_learning.ipynb
+
 Lipset, S.M. (1959) “Some Social Requisites of Democracy: Economic Development and Political Legitimacy”, American Political Science Review vol.53, pp.69-105.
 
